@@ -1,2 +1,2 @@
 # HiLo
-A higher or lower guessing game.
+A higher or lower number guessing game.
